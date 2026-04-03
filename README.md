@@ -119,6 +119,24 @@ The interactive dashboard includes:
 
 ---
 
+## 📸 Dashboard Screenshots
+
+> Click on the images to view in full size
+
+### 📊 Overview Dashboard
+![Overview Dashboard](Home.png)
+
+### 📈 Marketing Performance
+![Marketing Dashboard](Marketing.png)
+
+### 💬 Customer Feedback Analysis
+![Customer Feedback](Customer.png)
+
+### 📉 Data Model
+![Data Model](Model.png)
+
+---
+
 ## 💡 Business Recommendations
 
 ### 📈 Improve Conversion
