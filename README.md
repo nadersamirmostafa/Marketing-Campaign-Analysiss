@@ -3,7 +3,7 @@
 ## 🏆 Hackathon Achievement
 This project was awarded 🥇 **1st Place** in a Data Analysis Hackathon organized by **Orange Digital Center Egypt**.
 
-The competition brought together multiple teams working on real-world business datasets under time constraints.
+The competition brought together multiple teams working on real-world business datasets under time constraints. 
 
 ### Our solution stood out for:
 - Strong business problem structuring  
