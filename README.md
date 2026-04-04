@@ -130,7 +130,7 @@ The interactive dashboard includes:
 ![Marketing Dashboard](Marketing.png)
 
 ### 💬 Customer Feedback Analysis
-![Customer Feedback](Customer.png)
+![Customer Feedback](Coustomer.png)
 
 ### 📉 Data Model
 ![Data Model](Model.png)
